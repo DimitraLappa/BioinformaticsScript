@@ -1,0 +1,12 @@
+/Users/lappa/Desktop/BioInfoQuestion/samples.txt
+This is a new samples' file
+The origins of the samples,for this file, are: 
+C D T N
+For the origin source:  C
+The number of failed samples is  20 out of  80 total samples, hence the percentage of failed samples is:  25 %
+For the origin source:  D
+The number of failed samples is  32 out of  107 total samples, hence the percentage of failed samples is:  29 %
+For the origin source:  T
+The number of failed samples is  12 out of  90 total samples, hence the percentage of failed samples is:  13 %
+For the origin source:  N
+The number of failed samples is  27 out of  96 total samples, hence the percentage of failed samples is:  28 %
